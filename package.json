@@ -26,7 +26,7 @@
     "node": ">= 4"
   },
   "files": [],
-  "homepage": "https://github.com/jorrit/gulp-requirejs",
+  "homepage": "https://github.com/nielsboogaard/gulp-requirejs",
   "keywords": [
     "amd",
     "gulpplugin",
@@ -36,7 +36,7 @@
   "main": "./index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/jorrit/gulp-requirejs.git"
+    "url": "https://github.com/nielsboogaard/gulp-requirejs.git"
   },
   "scripts": {
     "lint": "eslint .",
