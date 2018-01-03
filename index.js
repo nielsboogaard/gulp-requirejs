@@ -1,7 +1,6 @@
 var gutil = require('gulp-util');
 var requirejs = require('requirejs');
 var PluginError = gutil.PluginError;
-var File = gutil.File;
 var Vinyl = require("vinyl");
 var es = require('event-stream');
 
