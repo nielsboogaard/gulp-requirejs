@@ -25,7 +25,6 @@
   "engines": {
     "node": ">= 4"
   },
-  "files": [],
   "homepage": "https://github.com/nielsboogaard/gulp-requirejs",
   "keywords": [
     "amd",
